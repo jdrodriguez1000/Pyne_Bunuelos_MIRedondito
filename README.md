@@ -7,7 +7,7 @@ Sistema de gestión automatizada de datos para la pyme de Buñuelos **MiRedondit
 ## 🚀 Automatización con GitHub Actions
 
 Este repositorio cuenta con un flujo de trabajo automatizado que:
-*   **Se ejecuta diariamente a las 01:00 UTC**.
+*   **Se ejecuta diariamente a las 06:00 UTC**.
 *   Utiliza **Python 3.12** para procesar actualizaciones incrementales.
 *   Sincroniza datos de ventas, inventario, finanzas, clima y marketing digital con una base de datos en **Supabase**.
 *   Utiliza secretos de GitHub para manejar credenciales de forma segura.
