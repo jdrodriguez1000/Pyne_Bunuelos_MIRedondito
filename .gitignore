@@ -1,0 +1,35 @@
+# Entorno y variables sensibles
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+dist/
+build/
+*.egg-info/
+
+# Archivos de datos (Generados o crudos)
+*.csv
+*.xlsx
+*.p
+*.db
+*.sqlite3
+
+# Resultados y visualizaciones (Generados)
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# Archivos de registro y temporales
+*.txt
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.bak
+*.tmp
