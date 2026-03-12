@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+holidays
+python-dotenv
+supabase
