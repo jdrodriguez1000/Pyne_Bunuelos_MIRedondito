@@ -2,7 +2,7 @@ name: Incremental Daily Update
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # Runs at 01:00 UTC every day
+    - cron: '0 6 * * *'  # Runs at 06:00 UTC every day
   workflow_dispatch:      # Allows manual trigger
 
 env:
